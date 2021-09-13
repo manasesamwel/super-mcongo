@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(211, 18, 18);
+}
+
+.navbar{
+    background-color: rgba(222, 184, 135, 0.178);
+
+}
+
+.a{
+    color: burlywood;
+    font-size: 18px;
+    font-weight: bold;
+ 
+}
+a:hover{
+    color: burlywood;
+}
+
+.btn{
+    background-color: burlywood;
+    color: black;
+}
+
